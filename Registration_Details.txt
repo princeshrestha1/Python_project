@@ -1,0 +1,22 @@
+
+j,Female,lk,jkl,jlk,jlk,jkl,Manager
+
+,,,,,,,Finance Department
+,,,,,,,Finance Department
+,,,,,,,Finance Department
+,,,,,,,Asssistant Manager
+,,,,,,,Asssistant Manager
+,,,,,,,Asssistant Manager
+,,,,,,,Finance Department
+l,prince,,,,,mane,Director
+,,,,,,,Head Manager
+,,,,,,,Head Manager
+,,,,,,,Head Manager
+,,,,,,,Director
+,,,,,,,Director
+,,,,,,,Manager
+12,mausam dahal,,leo,731298,12,ktm,Manager
+12,mausam dahal,,leo,731298,12,ktm,Manager
+12,mausam dahal,,leo,731298,12,ktm,Manager
+12,mausam dahal,,leo,731298,12,ktm,Manager
+ 15,shrensi,,,986525,24,kathmandu,Asssistant Manager
